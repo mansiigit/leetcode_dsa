@@ -16,10 +16,10 @@ int expandforpalindrome(string s,int i ,int j)
         int n=s.length();
         for(int i=0;i<n;i++)
         {
-        int evencount=expandforpalindrome(s,i,i);
-        count = count+evencount;
-        int oddcount=expandforpalindrome(s,i,i+1);
-        count= count+ oddcount;
+        int oddcount=expandforpalindrome(s,i,i);
+        count = count+oddcount;
+        int evencount=expandforpalindrome(s,i,i+1);
+        count= count+ evencount;
     }
     return count;
     }
