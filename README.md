@@ -33,11 +33,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mansiigit/leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/mansiigit/leetcode_dsa/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/mansiigit/leetcode_dsa/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mansiigit/leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/mansiigit/leetcode_dsa/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/mansiigit/leetcode_dsa/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
