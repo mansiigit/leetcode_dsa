@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mansiigit/leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/mansiigit/leetcode_dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mansiigit/leetcode_dsa/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/mansiigit/leetcode_dsa/tree/master/0443-string-compression) |
 ## Math
 |  |
 | ------- |
@@ -63,4 +64,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mansiigit/leetcode_dsa/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/mansiigit/leetcode_dsa/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
