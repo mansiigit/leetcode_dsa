@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/mansiigit/leetcode_dsa/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/mansiigit/leetcode_dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mansiigit/leetcode_dsa/tree/master/0268-missing-number) |
 ## Hash Table
