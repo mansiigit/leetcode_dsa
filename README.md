@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mansiigit/leetcode_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/mansiigit/leetcode_dsa/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/mansiigit/leetcode_dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mansiigit/leetcode_dsa/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/mansiigit/leetcode_dsa/tree/master/0443-string-compression) |
@@ -68,5 +69,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/mansiigit/leetcode_dsa/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/mansiigit/leetcode_dsa/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
