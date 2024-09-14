@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/mansiigit/leetcode_dsa/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/mansiigit/leetcode_dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mansiigit/leetcode_dsa/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/mansiigit/leetcode_dsa/tree/master/0507-perfect-number) |
 ## Hash Table
 |  |
 | ------- |
