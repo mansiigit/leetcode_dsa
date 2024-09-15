@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mansiigit/leetcode_dsa/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/mansiigit/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,5 +74,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0125-valid-palindrome](https://github.com/mansiigit/leetcode_dsa/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mansiigit/leetcode_dsa/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/mansiigit/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/mansiigit/leetcode_dsa/tree/master/0443-string-compression) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mansiigit/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/mansiigit/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
