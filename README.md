@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/mansiigit/leetcode_dsa/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/mansiigit/leetcode_dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mansiigit/leetcode_dsa/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/mansiigit/leetcode_dsa/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/mansiigit/leetcode_dsa/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
@@ -103,4 +104,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mansiigit/leetcode_dsa/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/mansiigit/leetcode_dsa/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
