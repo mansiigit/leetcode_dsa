@@ -50,12 +50,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mansiigit/leetcode_dsa/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/mansiigit/leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/mansiigit/leetcode_dsa/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mansiigit/leetcode_dsa/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/mansiigit/leetcode_dsa/tree/master/0507-perfect-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mansiigit/leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/mansiigit/leetcode_dsa/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/mansiigit/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mansiigit/leetcode_dsa/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/mansiigit/leetcode_dsa/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mansiigit/leetcode_dsa/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/mansiigit/leetcode_dsa/tree/master/0387-first-unique-character-in-a-string) |
