@@ -108,4 +108,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/mansiigit/leetcode_dsa/tree/master/0334-increasing-triplet-subsequence) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/mansiigit/leetcode_dsa/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/mansiigit/leetcode_dsa/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
